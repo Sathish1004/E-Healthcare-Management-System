@@ -4,20 +4,24 @@ E-HealthCare-Management-System is a console based application which is built usi
 
 
 
-#Languages and Technology Used
+# Languages and Technology Used
 
 Java
 MySql
 Jdbc
 
-#Requirements
+
+
+# Requirements
 Java [JDK 8+]
 Eclipse
 MySql
 Jdbc Driver
 MySql Connector
 
-#Features
+
+
+# Features
 login
 Admin’s DashBoard
 Patient’s DashBoard
@@ -29,7 +33,9 @@ Booking Appointment
 Choosing Doctor
 Payment Process
 
-#Steps to run the project in your machine
+
+
+# Steps to run the project in your machine
 Download and install Eclipse in your machine
 Clone or download the repository
 Extract all the files and move it in your eclipse directory.Open EHMS Folder.
